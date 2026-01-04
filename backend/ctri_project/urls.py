@@ -46,3 +46,5 @@ except ImportError as e:
     print(f"✗ Could not import ClinicalTrialViewSet: {e}")
 except Exception as e:
     print(f"✗ Error registering ClinicalTrialViewSet: {e}")
+    
+# just a comment
